@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.licdn.com/dms/image/C4E12AQGC77I_ni5vhQ/article-cover_image-shrink_600_2000/0/1547650472214?e=2147483647&v=beta&t=I1s9_R1Hf4L50Ev8URi7vV57s-v1IrHZOeTi7OmoN1A)
+![MasterHead](https://media.licdn.com/dms/image/C4E12AQGC77I_ni5vhQ/article-cover_image-shrink_600_2000/0/1547650472214?e=2147483647&v=beta&t=I1s9_R1Hf4L50Ev8URi7vV57s-v1IrHZOeTi7OmoN1A)
 <h1 align="center">Hi 👋, I'm ÇİMEN</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
